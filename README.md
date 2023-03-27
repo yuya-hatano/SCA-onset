@@ -4,3 +4,6 @@
 ## Install
 - If you are a Windows 64 bit user, download all files and run SCAonsetv1.0.exe.
 - If not, run SCAonsetv1.0.py in Python. SCAonsetv1.0.py requires pandas, matplotlib and numpy to be installed.
+## License
+- © 2023 Yuya Hatano
+- hatanoyuya@gmail.com
