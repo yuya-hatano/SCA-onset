@@ -1,6 +1,8 @@
 # SCA-onset
 - This application displays the results of using the random survival forest (RSF) to predict the probability that a non-affected person with the pathological alleles of SCA3 and DRPLA at a given age will remain unaffected in subsequent years. 
 - This application is based on data from 292 SCA3 and 203 DRPLA cases. A 100 % asymptomatic probability does not mean that 100 % of the patients will not develop the disease.
+- described in detail in:<br>
+Yuya Hatano,  Tomohiko Ishihara, Sachiko Hirokawa,  Osamu Onodera. Machine Learning Approach for the Prediction of Age-Specific Probability of SCA3 and DRPLA by Survival Curve Analysis Neurol Genet Jun 2023, 9 (3) e200075; DOI: 10.1212/NXG.0000000000200075 <br> https://ng.neurology.org/content/9/3/e200075
 ## Install
 - If you are a Windows 64 bit user, download all files and run SCAonsetv1.0.exe.
 - If not, run SCAonsetv1.0.py in Python 3.11. SCAonsetv1.0.py requires pandas, matplotlib and numpy to be installed.
